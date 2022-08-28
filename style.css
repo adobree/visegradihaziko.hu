@@ -31,13 +31,13 @@ body {
 }
 
 .redgreen {
-  background-image: linear-gradient(135deg, #ee3333, #00cc00);
+  background-image: linear-gradient(135deg, #ee3333 50%, #00cc00 50%);
 }
 .greenred {
-  background-image: linear-gradient(135deg, #00cc00, #ee3333);
+  background-image: linear-gradient(135deg, #00cc00 50%, #ee3333 50%);
 }
 .greygreen {
-  background-image: linear-gradient(135deg, #999, #00cc00);
+  background-image: linear-gradient(135deg, #999 50%, #00cc00 50%);
 }
 
 #calendar {
